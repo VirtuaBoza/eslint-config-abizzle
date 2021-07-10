@@ -4,6 +4,9 @@
   "description": "A shareable config with my preferred plugins and rules.",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/VirtuaBoza/eslint-config-abizzle"
+  },
   "dependencies": {
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-sort-destructure-keys": "^1.3.5",
