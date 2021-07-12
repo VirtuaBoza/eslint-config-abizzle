@@ -6,7 +6,6 @@ module.exports = {
     "sort-keys-fix",
     "typescript-sort-keys",
   ],
-  reportUnusedDisableDirectives: true,
   rules: {
     "no-console": ["warn", { allow: ["debug", "warn", "error"] }],
     "no-var": "warn",
