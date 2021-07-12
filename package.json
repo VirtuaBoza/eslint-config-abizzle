@@ -1,6 +1,6 @@
 {
   "name": "@abizzle/eslint-config-abizzle",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A shareable config with my preferred plugins and rules.",
   "main": "index.js",
   "license": "MIT",
